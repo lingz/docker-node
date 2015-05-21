@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t="node" .
+docker build -t="lingz/node-flow" .
