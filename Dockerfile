@@ -1,4 +1,4 @@
-FROM phusion/passenger-nodejs
+FROM phusion/passenger-full
 MAINTAINER Lingliang Zhang <lingliangz@gmail.com>
 
 RUN apt-get update
